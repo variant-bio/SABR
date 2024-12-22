@@ -1,10 +1,27 @@
-# South African Blood Regulatory Resource (SABR)
+# South African Blood Regulatory (SABR) Resource
 
 The South African Blood Regulatory (SABR) Resource generated whole genome sequencing (WGS) and blood RNA-seq data from over 600 individuals spanning three South Eastern Bantu-speaking groups. This was a collaboration between [Variant Bio](https://www.variantbio.com/) and Michele Ramsay's group at [Wits University](https://www.wits.ac.za/), and includes individuals from the [AWI-Gen](https://h3africa.org/index.php/awi-gen/) cohort. These data were used to map genetic variants that impact gene expression, splicing, and cell type levels. A full description of the resource can be found in our manuscript.
 
-A South African Map of Blood Regulatory Variation Enables GWAS Interpretation. Castel _et al._ 2024. _Nature Genetics_.
+A South African Map of Blood Regulatory Variation Enables GWAS Interpretation. Castel _et al._ 2025. _Nature Genetics_.
 
 > Functional genomics resources are critical for interpreting human genetic studies, however they are predominantly from European-ancestry individuals. Here we present the South African Blood Regulatory (SABR) resource, a map of blood regulatory variation that includes three South Eastern Bantu-speaking groups. Using paired whole genome and blood transcriptome data from over 600 individuals, we map the genetic architecture of 40 blood cell traits derived from deconvolution analysis, as well as expression, splice, and cell type interaction quantitative trait loci. We comprehensively compare SABR to the Genotype Expression (GTEx) Project and characterize the thousands of African-enriched and African-specific regulatory variants mapped. Finally, we demonstrate the increased utility of SABR for interpreting African association studies by identifying putatively causal genes and molecular mechanisms through colocalization analysis of 83 blood-relevant traits from the PAN-UK Biobank. Importantly, we make full SABR summary statistics publicly available to support the African genomics community.
+
+## Table of Contents
+
+1. [Cohort and Data Overview](#cohort-and-data-overview)
+2. [Summary Statistics](#summary-statistics)
+    - [Genotype Data](#genotype-data)
+    - [GWAS](#gwas)
+    - [QTL Mapping](#qtl-mapping)
+3. [Analysis Results](#analysis-results)
+    - [xCell Disease Modeling](#xcell-disease-modeling)
+    - [Colocalization Analyses](#colocalization-analyses)
+4. [Controlled Access Data](#controlled-access-data)
+5. [Methods](#methods)
+    - [Genotype Calling and Imputation](#genotype-calling-and-imputation)
+    - [Expression Quantification, Splice Quantification, and QTL Mapping](#expression-quantification-splice-quantification-and-qtl-mapping)
+    - [xCell GWAS](#xcell-gwas)
+    - [Colocalization](#colocalization)
 
 ## Cohort and Data Overview
 
