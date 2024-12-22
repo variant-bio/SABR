@@ -1,0 +1,84 @@
+gwas_code	phenotype	phenotype_category	model	sample_size	cases	controls	hits	loci	path_sumstats
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_ALT_AFR-1	Alanine Aminotransferase	Gastroenterology	linear	6214	0	0	72	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30620-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_ALB_AFR-1	Albumin	Gastroenterology	linear	5759	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30600-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_ALBGR_AFR-1	Albumin/Globulin ratio	Gastroenterology	linear	5765	0	0	2	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-AG-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_ALP_AFR-1	Alkaline Phosphatase	Gastroenterology	linear	6216	0	0	384	7	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30610-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_AST_AFR-1	Aspartate Aminotransferase	Gastroenterology	linear	6180	0	0	3	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30650-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_ASTHMA_AFR-1	Asthma	Pulmonary	logistic	6575	576	5999	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-495-both_sexes.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_PAIN_BACK_AFR-1	Back Pain	Neurology	logistic	2027	1352	675	9	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-3571-both_sexes-3571.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BMET_AFR-1	Basal metabolic rate	Anthropometric	linear	6458	0	0	5	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-23105-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_BILIR_AFR-1	Bilirubin	Gastroenterology	linear	6176	0	0	1590	5	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30840-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BP_D_AFR-1	Blood Pressure - Diastolic	Cardiovascular	linear	6551	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-4079-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BP_S_AFR-1	Blood Pressure - Systolic	Cardiovascular	linear	6551	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-4080-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BMI_AFR-1	BMI	Anthropometric	linear	6545	0	0	3	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-21001-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_PFAT_AFR-1	Body fat percentage	Anthropometric	linear	6455	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-23099-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_CRP_AFR-1	c-reactive protein	Immune	linear	6203	0	0	433	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30710-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_CHESTP_AFR-1	Chest Pain	Cardiovascular	logistic	6394	1620	4774	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-2335-both_sexes-2335.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_CHOL_AFR-1	Cholesterol - Total	Cardiovascular	linear	6212	0	0	249	6	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30690-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_CYSTC_AFR-1	cystatin C	Renal	linear	6213	0	0	291	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30720-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_DIAB_AFR-1	Diabetes	Metabolic and Endocrine	logistic	6636	843	5793	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-250-both_sexes.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_DBILIR_AFR-1	Direct Bilirubin	Gastroenterology	linear	5165	0	0	1056	6	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30660-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_EGFR_CKDEPI_AFR-1	eGFR CKD-EPI	Renal	linear	6217	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-eGFR-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_EGFR_CKDEPI_CMB_AFR-1	eGFR CKD-EPI Combined	Renal	linear	6212	0	0	21	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-eGFRcreacys-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_EGFR_CKDEPI_CYS_AFR-1	eGFR CKD-EPI Cystatin	Renal	linear	6218	0	0	278	6	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-eGFRcys-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_ESC_AFR-1	Eosinophil Count	Hematological	linear	6262	0	0	2	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30150-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_FEVM_AFR-1	FEV1 max	Pulmonary	linear	5978	0	0	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-3063-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_FVCM_AFR-1	FVC max	Pulmonary	linear	5978	0	0	6	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-3062-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_GGT_AFR-1	Gamma-Glutamyl Transferase	Gastroenterology	linear	6212	0	0	539	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30730-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_GLUC_AFR-1	glucose	Metabolic and Endocrine	linear	5750	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30740-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_LGRIP_AFR-1	Grip strength - left hand	Musculoskeletal	linear	6556	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-46-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_RGRIP_AFR-1	Grip strength - right hand	Musculoskeletal	linear	6551	0	0	2	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-47-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_HBA1C_AFR-1	hba1c	Metabolic and Endocrine	linear	5290	0	0	1387	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30750-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_HDL_AFR-1	HDL	Cardiovascular	linear	5754	0	0	82	6	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30760-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HEART_PULSE_AFR-1	Heart - Pulse	Cardiovascular	linear	6551	0	0	64	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-102-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_US_HEEL_BMD_AFR-1	Heel bone mineral density (BMD)	Musculoskeletal	linear	2292	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-3148-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_HCT_AFR-1	Hematocrit	Hematological	linear	6281	0	0	49	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30030-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_HGB_AFR-1	Hemoglobin	Hematological	linear	6281	0	0	212	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30020-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HIPC_AFR-1	Hip Circumference	Anthropometric	linear	6567	0	0	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-49-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HYPT_AFR-1	Hypertension	Cardiovascular	logistic	6520	2541	3979	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-6150-both_sexes-4.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_IGF_AFR-1	IGF	Metabolic and Endocrine	linear	6178	0	0	35	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30770-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_IOP_CCL_AFR-1	IOP - Corneal-compensated - Left	Opthalmic	linear	3291	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-5262-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_IOP_CCR_AFR-1	IOP - Corneal-compensated - Right	Opthalmic	linear	3330	0	0	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-5254-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_PAIN_KNEE_AFR-1	Knee Pain	Neurology	logistic	1799	1349	450	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-3773-both_sexes-3773.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_LDLD_AFR-1	LDL Direct	Cardiovascular	linear	6200	0	0	212	6	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30780-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_LIPID_D_AFR-1	Lipid - Disease	Metabolic and Endocrine	logistic	6636	746	5890	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-E78-both_sexes.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_LIPID_M_AFR-1	Lipid - Medication - Lowering	Medication	logistic	3814	600	3214	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-6153-both_sexes-1.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_LIPOPA_AFR-1	lipoprotein(a)	Cardiovascular	linear	5140	0	0	886	11	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30790-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_ALC_AFR-1	Lymphocyte Count	Hematological	linear	6262	0	0	86	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30120-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BP_MAP_AFR-1	Mean arterial pressure	Cardiovascular	linear	6551	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-MAP-both_sexes-auto_irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_MCH_AFR-1	Mean Corpuscular Hemoglobin	Hematological	linear	6281	0	0	1138	5	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30050-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_MCHC_AFR-1	Mean Corpuscular Hemoglobin Concentration	Hematological	linear	6281	0	0	470	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30060-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_MCV_AFR-1	Mean Corpuscular Volume	Hematological	linear	6281	0	0	1315	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30040-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_MCC_AFR-1	Monocyte Count	Hematological	linear	6262	0	0	57	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30130-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_PAIN_NECK_AFR-1	Nech / Sholuder Pain	Neurology	logistic	1741	1060	681	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-3404-both_sexes-3404.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_ANC_AFR-1	Neutrophil Count	Hematological	linear	6262	0	0	1448	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30140-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_NAP_AFR-1	Non-albumin protein	Gastroenterology	linear	5765	0	0	3	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-NAP-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_ESTR_AFR-1	Oestradiol	Metabolic and Endocrine	linear	1612	0	0	7	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30800-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_PEF_AFR-1	Peak expiratory flow (PEF)	Pulmonary	linear	5978	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-3064-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_PHOSP_AFR-1	phosphate	Metabolic and Endocrine	linear	5750	0	0	53	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30810-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_PLT_AFR-1	Platelet Count	Hematological	linear	6281	0	0	23	5	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30080-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BP_PP_AFR-1	Pulse pressure	Cardiovascular	linear	6551	0	0	3	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-PP-both_sexes-auto_irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HEART_ASI_AFR-1	Pulse wave arterial stiffness index	Cardiovascular	linear	3794	0	0	2	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-21021-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HEART_PWPPT_AFR-1	Pulse wave peak to peak time	Cardiovascular	linear	3847	0	0	2	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-4196-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HEART_PWRI_AFR-1	Pulse wave reflection index	Cardiovascular	linear	3852	0	0	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-4195-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_RBC_AFR-1	Red Blood Cell Count	Hematological	linear	6281	0	0	920	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30010-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_CA_AFR-1	Serum - Calcium	Metabolic and Endocrine	linear	5758	0	0	51	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30680-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_SCR_AFR-1	Serum - Creatinine	Renal	linear	6212	0	0	7	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30700-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_SUR_AFR-1	Serum - Urate	Renal	linear	6206	0	0	580	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30880-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_VITD_AFR-1	Serum - Vitamin D	Metabolic and Endocrine	linear	6046	0	0	13	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30890-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_SHBG_AFR-1	sex hormone binding globulin	Metabolic and Endocrine	linear	5709	0	0	486	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30830-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_TEST_AFR-1	Testosterone	Metabolic and Endocrine	linear	5623	0	0	17	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30850-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_TP_AFR-1	Total protein	Gastroenterology	linear	5759	0	0	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30860-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_TRIG_AFR-1	Triglycerides	Cardiovascular	linear	6211	0	0	9	5	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30870-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_TRUNKFP_AFR-1	Trunk fat percentage	Anthropometric	linear	6453	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-23127-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_TRUNKFFM_AFR-1	Trunk fat-free mass	Musculoskeletal	linear	6451	0	0	15	11	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-23129-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_UREA_AFR-1	Urea	Gastroenterology	linear	6213	0	0	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30670-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_UCR_AFR-1	Urine - Creatinine	Renal	linear	6378	0	0	191	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30510-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_UMA_AFR-1	Urine - Microalbumin	Renal	linear	3036	0	0	1	1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30500-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_UK_AFR-1	Urine - Potassium	Metabolic and Endocrine	linear	6375	0	0	248	3	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30520-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_BC_UNA_AFR-1	Urine - Sodium	Metabolic and Endocrine	linear	6370	0	0	276	4	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30530-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_WAISTC_AFR-1	Waist Circumference	Anthropometric	linear	6570	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-48-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_WEIGHT_AFR-1	Weight	Anthropometric	linear	6558	0	0	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-21002-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_WHEEZE_AFR-1	Wheezing	Pulmonary	logistic	6201	1359	4842	0	0	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-2316-both_sexes-2316.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_WBC_AFR-1	White Blood Cell Count	Hematological	linear	6281	0	0	829	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30000-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_WBFFM_AFR-1	Whole body fat-free mass	Musculoskeletal	linear	6456	0	0	4	2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-23101-both_sexes-irnt.tsv.bgz

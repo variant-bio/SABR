@@ -1,0 +1,68 @@
+xcell_code	description	category	included_in_analyses
+Astrocytes	Astrocytes	Epithelial	0
+Epithelial.cells	Epithelial cells	Epithelial	0
+Hepatocytes	Hepatocytes	Epithelial	0
+Keratinocytes	Keratinocytes	Epithelial	0
+Melanocytes	Melanocytes	Epithelial	0
+Neurons	Neurons	Epithelial	0
+Sebocytes	Sebocytes	Epithelial	0
+CLP	Common lymphoid progenitors	Hematopoietic Stem Cells	1
+CMP	Common myeloid progenitors	Hematopoietic Stem Cells	1
+Erythrocytes	Erythrocytes	Hematopoietic Stem Cells	1
+GMP	Granulocyte-macrophage progenitors	Hematopoietic Stem Cells	1
+HSC	Hematopoietic stem cells	Hematopoietic Stem Cells	1
+Megakaryocytes	Megakaryocytes	Hematopoietic Stem Cells	1
+MEP	Megakaryocyte erythroid progenitors	Hematopoietic Stem Cells	0
+MPP	Multipotent progenitors	Hematopoietic Stem Cells	1
+Platelets	Platelets	Hematopoietic Stem Cells	1
+B.cells	B-cells	Lymphoid	1
+CD4..memory.T.cells	CD4+ memory T-cells	Lymphoid	1
+CD4..naive.T.cells	CD4+ naive T-cells	Lymphoid	1
+CD4..T.cells	CD4+ T-cells	Lymphoid	1
+CD4..Tcm	CD4+ Tcm	Lymphoid	1
+CD4..Tem	CD4+ Tem	Lymphoid	1
+CD8..naive.T.cells	CD8+ naive T-cells	Lymphoid	1
+CD8..T.cells	CD8+ T-cells	Lymphoid	1
+CD8..Tcm	CD8+ Tcm	Lymphoid	1
+CD8..Tem	CD8+ Tem	Lymphoid	1
+Class.switched.memory.B.cells	Class-switched memory B-cells	Lymphoid	1
+Memory.B.cells	Memory B-cells	Lymphoid	1
+naive.B.cells	Naive B-cells	Lymphoid	1
+NK.cells	Natural killer cells	Lymphoid	1
+NKT	Natural killer	Lymphoid	1
+Plasma.cells	Plasma cells	Lymphoid	1
+pro.B.cells	pro B-cells	Lymphoid	1
+Tgd.cells	Tgd cells	Lymphoid	1
+Th1.cells	Th1 cells	Lymphoid	0
+Th2.cells	Th2 cells	Lymphoid	1
+Tregs	Regulatory T-cells	Lymphoid	1
+aDC	Activated dendritic cells	Myeloid	1
+Basophils	Basophils	Myeloid	1
+cDC	Conventional dendritic cells	Myeloid	1
+DC	Dendritic cells	Myeloid	1
+Eosinophils	Eosinophils	Myeloid	1
+iDC	Immature dendritic cells	Myeloid	1
+Macrophages	Macrophages	Myeloid	0
+Macrophages.M1	Macrophages M1	Myeloid	1
+Macrophages.M2	Macrophages M2	Myeloid	1
+Mast.cells	Mas	Myeloid	1
+Monocytes	Monocytes	Myeloid	1
+Neutrophils	Neutrophils	Myeloid	1
+pDC	Plasmacytoid dendritic cells	Myeloid	1
+ImmuneScore	Immune Score	SCORE	0
+MicroenvironmentScore	Microenvironment Score	SCORE	0
+StromaScore	Stroma Score	SCORE	0
+Adipocytes	Adipocytes	Stroma	0
+Chondrocytes	Chondrocytes	Stroma	0
+Endothelial.cells	Endothelial cells	Stroma	0
+Fibroblasts	Fibroblasts	Stroma	0
+ly.Endothelial.cells	ly Endothelial cells	Stroma	0
+Mesangial.cells	Mesangial cells	Stroma	0
+MSC	Mesenchymal stem cells	Stroma	0
+mv.Endothelial.cells	mv Endothelial cells	Stroma	0
+Myocytes	Myocytes	Stroma	0
+Osteoblast	Osteoblasts	Stroma	0
+Pericytes	Pericytes	Stroma	0
+Preadipocytes	Preadipocytes	Stroma	0
+Skeletal.muscle	Skeletal muscle cells	Stroma	0
+Smooth.muscle	Smooth muscle cells	Stroma	0

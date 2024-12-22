@@ -1,0 +1,11 @@
+gwas_code	phenotype	phenotype_category	model	sample_size	hits	loci	path_sumstats
+ASOE-UKBB-PANU-1-GWAS-PHEN-BC-AST-TA-1	Aspartate Aminotransferase	Gastroenterology	linear	419034	74484	326	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30650-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN-BC-ALT-TA-1	Alanine Aminotransferase	Gastroenterology	linear	420449	41305	280	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30620-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN-BC-ALP-TA-1	Alkaline Phosphatase	Gastroenterology	linear	420633	93081	461	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30610-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN-BC-GGT-TA-1	Gamma-Glutamyl Transferase	Gastroenterology	linear	420390	68480	418	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/biomarkers-30730-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_WBC_TA-1	White Blood Cell Count	Hematological	linear	427933	88631	420	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30000-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_PLT_TA-1	Platelet Count	Hematological	linear	427935	141446	608	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30080-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_ALC_TA-1	Lymphocyte Count	Hematological	linear	427154	98993	466	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30120-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_MCC_TA-1	Monocyte Count	Hematological	linear	427154	94824	452	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30130-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_ANC_TA-1	Neutrophil Count	Hematological	linear	427154	79909	363	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30140-both_sexes-irnt.tsv.bgz
+ASOE-UKBB-PANU-1-GWAS-PHEN_HM_ESC_TA-1	Eosinophil Count	Hematological	linear	427154	101163	426	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/continuous-30150-both_sexes-irnt.tsv.bgz
