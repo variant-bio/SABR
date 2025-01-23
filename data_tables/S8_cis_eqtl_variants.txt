@@ -1,4 +1,4 @@
-chromosome	position	ref	alt	dbsnp_rsid	variant_id	vep_gene_id	vep_gene_name	vep_consequence	cadd_score	af_sabr	af_sabr_BPI	af_sabr_TSO	af_sabr_ZLU	af_gnomad	af_1000g	af_1000g_eas	af_1000g_eur	af_1000g_afr	af_1000g_amr	af_1000g_sas	eqtlgen
+chromosome	position	ref	alt	dbsnp_rsid	variant_id	vep_gene_id	vep_gene_symbol	vep_consequence	cadd_score	af_sabr	af_sabr_BPI	af_sabr_TSO	af_sabr_ZLU	af_gnomad	af_1000g	af_1000g_eas	af_1000g_eur	af_1000g_afr	af_1000g_amr	af_1000g_sas	eqtlgen
 chr12	32486415	A	G	rs7977293	chr12_32486415_A_G	ENSG00000139132	FGD4	intron_variant	0.091	4.12E-01	0.4173	0.3755	0.4385	0.646188	0.608994	0.560516	0.735586	0.420575	0.674352	0.764826	1
 chr12	32676294	A	G	rs34034589	chr12_32676294_A_G	ENSG00000087470	DNM1L	upstream_gene_variant	0.397	2.11E-01	0.2117	0.2383	0.1944	0.181485	0.168332	0.0813492	0.167992	0.312405	0.105187	0.095092	1
 chr12	32684707	G	T	rs12322001	chr12_32684707_G_T	ENSG00000087470	DNM1L	intron_variant	1.862	1.45E-02	0.01815	0.02347	0.009921	0.0100954	0.0126483	0	0	0.0453858	0.00432277	0	0

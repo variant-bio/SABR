@@ -1,4 +1,4 @@
-gene_id	gene_name	p_value_threshold	independent_signals	error	variant_ids
+gene_id	gene_symbol	p_value_threshold	independent_signals	error	variant_ids
 ENSG00000115020.17	PIKFYVE	0.00055024	10	0	chr2_208243959_T_C,chr2_208211836_G_A,chr2_208293403_G_A,chr2_208482267_T_C,chr2_208342995_A_G,chr2_208416155_G_T,chr2_208325184_A_G,chr2_208165062_G_A,chr2_208104819_T_C,chr2_208630909_G_A
 ENSG00000163322.14	ABRAXAS1	0.00033246	4	0	chr4_83512651_T_C,chr4_83389684_T_C,chr4_83467322_C_T,chr4_83463914_G_A
 ENSG00000226609.2	SNX30-DT	0.00034057	2	0	chr9_112755448_G_A,chr9_113396819_C_T

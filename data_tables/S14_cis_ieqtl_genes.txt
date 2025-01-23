@@ -1,4 +1,4 @@
-xcell_type	gene_id	gene_name	num_var	variant_id	pval_nominal	num_eigenmt_tests	pval_eigenmt	qval	pval_nominal_threshold	tss_distance	ma_samples	ma_count	maf	slope	slope_se
+xcell_type	gene_id	gene_symbol	num_var	variant_id	pval_nominal	num_eigenmt_tests	pval_eigenmt	qval	pval_nominal_threshold	tss_distance	ma_samples	ma_count	maf	slope	slope_se
 Neutrophils	ENSG00000167528.12	ZNF641	7740	chr12_48267809_C_T	1.13E-37	1249	1.42E-34	2.36E-30	4.00E-05	-83605	2.45E+02	276	2.25E-01	0.271419	0.0195181
 Neutrophils	ENSG00000197930.13	ERO1A	8718	chr14_52697146_G_C	1.82E-27	1343	2.45E-24	2.04E-20	3.72E-05	1246	1.92E+02	207	1.69E-01	-0.294035	0.0255664
 Neutrophils	ENSG00000180776.15	ZDHHC20	9715	chr13_21455211_G_A	4.80E-24	2055	9.87E-21	5.49E-17	2.43E-05	-4159	1.43E+02	155	1.26E-01	0.380692	0.0358116

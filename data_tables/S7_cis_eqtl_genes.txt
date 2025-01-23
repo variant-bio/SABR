@@ -1,4 +1,4 @@
-gene_id	gene_name	num_var	beta_shape1	beta_shape2	true_df	pval_true_df	variant_id	tss_distance	ma_samples	ma_count	maf	ref_factor	pval_nominal	slope	slope_se	pval_perm	pval_beta	qval	pval_nominal_threshold
+gene_id	gene_symbol	num_var	beta_shape1	beta_shape2	true_df	pval_true_df	variant_id	tss_distance	ma_samples	ma_count	maf	ref_factor	pval_nominal	slope	slope_se	pval_perm	pval_beta	qval	pval_nominal_threshold
 ENSG00000239945.1		2468	1.06007	320.181	437.071	8.98E-08	chr1_88338_G_A	-2767	116	119	0.0969055	1	4.05E-09	0.556258	0.092979	1.00E-04	1.49E-05	4.43E-06	0.0012626
 ENSG00000238009.6		2878	1.06034	351.776	433.597	3.25E-09	chr1_88338_G_A	-45385	116	119	0.0969055	1	6.24E-11	0.569508	0.0853129	1.00E-04	4.87E-07	1.63E-07	0.00114979
 ENSG00000241860.7		3259	1.06128	410.939	441.384	1.31E-11	chr1_83084_T_A	-90778	258	275	0.223941	-1	1.27E-13	-0.363809	0.0478075	1.00E-04	1.63E-09	6.54E-10	0.00098592
