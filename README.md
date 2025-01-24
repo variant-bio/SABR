@@ -35,14 +35,14 @@ Variant-level summary statics from WGS genotyping and full summary statistics fr
 
 ### Genotype Data
 - South African enriched, putatively functional alleles - [GitHub](data_tables/S2_functional_alleles.txt)
-- Variant-level summary statistics from imputed mid-pass WGS including allele frequencies and functional annotations - [S3](s3://public.us-prod.variantbio.com/SABR/VARS/SABR_variant_summary.txt.bgz)
+- Variant-level summary statistics from imputed mid-pass WGS including allele frequencies and functional annotations - `s3://public.us-prod.variantbio.com/SABR/VARS/SABR_variant_summary.txt.bgz`
 - Description of variant-level summary statistics fields - [GitHub](data_tables/variant_summary_stats.txt)
 
 ### GWAS
 - List of xCell types included in analyses - [GitHub](data_tables/S3_xcell_cell_types.txt)
 - xCell codes - [GitHub](data_tables/xcell_codes.txt)
 - Summary of genome-wide significant loci (p < 5e-8) identified - [GitHub](data_tables/S5_xcell_gwas_loci.txt)
-- Full summary statistics outputted by Hail for each GWAS, including p-value, beta (alt allele), standard error, minor allele frequency - [S3](s3://public.us-prod.variantbio.com/SABR/XCELL_GWAS/)
+- Full summary statistics outputted by Hail for each GWAS, including p-value, beta (alt allele), standard error, minor allele frequency - `s3://public.us-prod.variantbio.com/SABR/XCELL_GWAS/`
 
 ### QTL Mapping
 Gene-level results and full variant level summary statistics outputted by [fastQTL](https://github.com/francois-a/fastqtl) are provided for all QTL mapping runs.
@@ -53,16 +53,16 @@ Gene-level results and full variant level summary statistics outputted by [fastQ
     - Conditionally independent eQTLs - [GitHub](data_tables/S12_ind_eqtls.txt)
     - Conditionally independent eVariant annotations - [GitHub](data_tables/S12_ind_eqtls.txt)
     - Nominally significant structural variant eQTLs - [GitHub](data_tables/S11_cis_eqtl_sv_results.txt)
-    - Full summary statistics - [S3](s3://public.us-prod.variantbio.com/SABR/EQTL/SABR_eQTL_allpairs.txt.bgz)
-    - Conditionally independent eQTLs summary statistics - [S3](s3://public.us-prod.variantbio.com/SABR/EQTL/SABR_eQTL_conditional_variants.txt.gz)
+    - Full summary statistics - `s3://public.us-prod.variantbio.com/SABR/EQTL/SABR_eQTL_allpairs.txt.bgz`
+    - Conditionally independent eQTLs summary statistics - `s3://public.us-prod.variantbio.com/SABR/EQTL/SABR_eQTL_conditional_variants.txt.gz`
 2. Splice QTLs (sQTLs)
     - Gene-level results - [GitHub](data_tables/S9_cis_sqtl_genes.txt)
     - sVariant annotations - [GitHub](data_tables/S10_cis_sqtl_variants.txt)
-    - Full summary statistics - [S3](s3://public.us-prod.variantbio.com/SABR/SQTL/SABR_sQTL_allpairs.txt.bgz)
+    - Full summary statistics - `s3://public.us-prod.variantbio.com/SABR/SQTL/SABR_sQTL_allpairs.txt.bgz`
 3. Cell-type Interaction eQTLs (ieQTLs)
     - Gene-level results - [GitHub](data_tables/S14_cis_ieqtl_genes.txt)
     - ieVariant annotations - [GitHub](data_tables/S15_cis_ieqtl_variants.txt)
-    - Full summary statistics - [S3](s3://public.us-prod.variantbio.com/SABR/IEQTL/)
+    - Full summary statistics - `s3://public.us-prod.variantbio.com/SABR/IEQTL/`
 
 ## Analysis Results
 
