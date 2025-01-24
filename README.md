@@ -51,10 +51,10 @@ Gene-level results and full variant level summary statistics outputted by [fastQ
     - Gene-level results - [GitHub](data_tables/S7_cis_eqtl_genes.txt)
     - eVariant annotations - [GitHub](data_tables/S8_cis_eqtl_variants.txt)
     - Conditionally independent eQTLs - [GitHub](data_tables/S12_ind_eqtls.txt)
-    - Conditionally independent eVariant annotations - [GitHub](data_tables/S12_ind_eqtls.txt)
+    - Conditionally independent eVariant annotations - [GitHub](data_tables/S13_ind_eqtl_variants.txt)
     - Nominally significant structural variant eQTLs - [GitHub](data_tables/S11_cis_eqtl_sv_results.txt)
     - Full summary statistics - `s3://public.us-prod.variantbio.com/SABR/EQTL/SABR_eQTL_allpairs.txt.bgz`
-    - Conditionally independent eQTLs summary statistics - `s3://public.us-prod.variantbio.com/SABR/EQTL/SABR_eQTL_conditional_variants.txt.gz`
+    - Conditionally independent eQTL summary statistics - `s3://public.us-prod.variantbio.com/SABR/EQTL/SABR_eQTL_conditional_variants.txt.gz`
 2. Splice QTLs (sQTLs)
     - Gene-level results - [GitHub](data_tables/S9_cis_sqtl_genes.txt)
     - sVariant annotations - [GitHub](data_tables/S10_cis_sqtl_variants.txt)
