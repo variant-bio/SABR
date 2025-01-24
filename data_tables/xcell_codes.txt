@@ -1,0 +1,41 @@
+code	cell_type
+ADC	Activated dendritic cells
+BASOP	Basophils
+BCELL	B-cells
+BCELM	Memory B-cells
+BCELN	Naive B-cells
+CD4MT	CD4+ memory T-cells
+CD4NT	CD4+ naive T-cells
+CD4TC	CD4+ T-cells
+CD4TCM	CD4+ Tcm
+CD4TEM	CD4+ Tem
+CD8NT	CD8+ naive T-cells
+CD8TC	CD8+ T-cells
+CD8TCM	CD8+ Tcm
+CD8TEM	CD8+ Tem
+CDC	Conventional dendritic cells
+CLP	Common lymphoid progenitors
+CMP	Common myeloid progenitors
+CSMBC	Class-switched memory B-cells
+DC	Dendritic cells
+EOSIN	Eosinophils
+ERYTH	Erythrocytes
+GMP	Granulocyte-macrophage progenitors
+HSC	Hematopoietic stem cells
+IDC	Immature dendritic cells
+MACM1	Macrophages M1
+MACM2	Macrophages M2
+MASTC	Mast cells
+MEGAK	Megakaryocytes
+MONOC	Monocytes
+MPP	Multipotent progenitors
+NEUTR	Neutrophils
+NKCEL	Natural killer cells
+NKT	Natural killer T cells
+PDC	Plasmacytoid dendritic cells
+PLATE	Platelets
+PROBC	pro B-cells
+TGDCE	Tgd cells
+TH2CE	Th2 cells
+TREGS	Regulatory T-cells
+PLMCL	Plasma cells

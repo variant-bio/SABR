@@ -1,0 +1,41 @@
+column_number	column_name	description
+1	#locus_contig	chromosome
+2	locus_position	position
+3	allele_ref	reference allele
+4	allele_alt	alternative allele
+5	variant_key	unique variant identifier
+6	dbsnp_rsid	dbsnp rsid
+7	giab_hc	genome in a bottle high confidence region
+8	repeat_masker	repeat masker annotation
+9	vep_most_severe_consequence	VEP most severe consequence
+10	vep_most_severe_consequence_gene_id	VEP most severe consequence gene id
+11	vep_most_severe_consequence_gene_type	VEP most severe consequence gene type
+12	cadd_phred	cadd phred score for SNVs
+13	cadd_imputed	cadd score imputed for INDELs
+14	gnomad_id	gnomad rsID
+15	gnomad_af	gnomad allele frequency
+16	gnomad_fs	gnomad filtered site
+17	kg_id	1000g rsID
+18	kg_af	1000g allele frequency
+19	kg_eas_af	1000g east asian af
+20	kg_eur_af	1000g european af
+21	kg_afr_af	1000g african af
+22	kg_amr_af	1000g american af
+23	kg_sas_af	1000g soith asian af
+24	gwas_pass	variant passes gwas qc
+25	gwas_af_alt	alt allele frequency in gwas subset
+26	af_stdy_stdy_1000g	alt af in 1000g joint called individuals
+27	af_stdy_stdy_h3a	alt af in h3a joint called individuals
+28	af_stdy_stdy_zaag	alt af in SABR study
+29	af_popu_afr	alt af in joint called african ancestry individuals
+30	af_popu_asia	alt af in joint called asian ancestry individuals
+31	af_popu_eur	alt af in joint called european ancestry individuals
+32	af_ethn_bpi	alt af in sabr bapedi individuals
+33	af_ethn_gam	alt af in 1000g gambian individuals
+34	af_ethn_gbr	alt af in 1000g british individuals
+35	af_ethn_han	alt af in 1000g han chinese individuals
+36	af_ethn_luh	alt af in 1000g luhya individuals
+37	af_ethn_tso	alt af in sabr tsongan individuals
+38	af_ethn_yor	alt af in 1000g yoruba individuals
+39	af_ethn_za	alf af in h3a individuals
+40	af_ethn_zlu	alt af in sabr zulu individuals
