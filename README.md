@@ -2,7 +2,7 @@
 
 The South African Blood Regulatory (SABR) Resource generated whole genome sequencing (WGS) and blood RNA-seq data from over 600 individuals spanning three South Eastern Bantu-speaking groups. This was a collaboration between [Variant Bio](https://www.variantbio.com/) and Michele Ramsay's group at [Wits University](https://www.wits.ac.za/), and includes individuals from the [AWI-Gen](https://h3africa.org/index.php/awi-gen/) cohort. These data were used to map genetic variants that impact gene expression, splicing, and cell type levels. A full description of the resource can be found in our manuscript.
 
-A map of blood regulatory variation in South Africans. Castel _et al._ 2025. _Nature Genetics_.
+**A map of blood regulatory variation in South Africans enables GWAS interpretation. Castel _et al._ 2025. _Nature Genetics_.**
 
 > Functional genomics resources are critical for interpreting human genetic studies, however they are predominantly from European-ancestry individuals. Here we present the South African Blood Regulatory (SABR) resource, a map of blood regulatory variation that includes three South Eastern Bantu-speaking groups. Using paired whole genome and blood transcriptome data from over 600 individuals, we map the genetic architecture of 40 blood cell traits derived from deconvolution analysis, as well as expression, splice, and cell type interaction quantitative trait loci. We comprehensively compare SABR to the Genotype Expression (GTEx) Project and characterize the thousands of African-enriched and African-specific regulatory variants mapped. Finally, we demonstrate the increased utility of SABR for interpreting African association studies by identifying putatively causal genes and molecular mechanisms through colocalization analysis of 83 blood-relevant traits from the PAN-UK Biobank. Importantly, we make full SABR summary statistics publicly available to support the African genomics community.
 
@@ -83,13 +83,28 @@ Gene-level results and full variant level summary statistics outputted by [fastQ
 
 Indvidual-level data are availabe to authorized users purusing reasearch in line with informed consent and ethical approvals. Data are provided through the European Phenome Genome Archive (EGA) project [XXXX](https://ega-archive.org/). The following is a list of data availble via controlled access.
 
+- Joint called and imputed genotype VCF
+    - HAIL-ZAAG-WGS-MP-1-2S.metadata.txt
+    - HAIL-ZAAG-WGS-MP-1-2S.vcf.bgz
+    - HAIL-ZAAG-WGS-MP-1-2S.vcf.bgz.tbi
 - Extended indivividual-level metadata, including disease status
+    - SABR_subject_phenotypes.txt
 - xCell enrichment scores
-- Expression quantifications (counts, TPM, TMM)
+    - SABR_xcell_quantifications.txt
+- Expression quantifications (counts, TMM, TPM)
+    - SABR_gene_reads.gct.gz
+    - SABR_gene_tmm.bed.gz
+    - SABR_gene_tpm.gct.gz
 - Splice quantifications (junction counts, clusters)
-- xCell GWAS input files (covariates, normalized scores)
+    - SABR_leafcutter_junctions.bed.gz
+    - SABR_leafcutter_clusters.bed.gz
+- xCell GWAS input files (covariates)
+    - SABR_gwas_covariates.txt
 - QTL mapping input files (covariates, normalized quantifications)
-- Genotype calls (imputed VCF)
+    - SABR_EQTL_combined_covariates.txt
+    - SABR_EQTL_expression.bed.gz
+    - SABR_SQTL_combined_covariates.txt
+    - SABR_SQTL_leafcutter.bed.gz
 - Whole-genome sequencing data (FASTQs)
 - RNA-sequencing data (FASTQS)
 
