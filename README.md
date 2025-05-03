@@ -4,7 +4,7 @@ The South African Blood Regulatory (SABR) Resource generated whole genome sequen
 
 **A map of blood regulatory variation in South Africans enables GWAS interpretation. Castel _et al._ 2025. _Nature Genetics_.**
 
-> Functional genomics resources are critical for interpreting human genetic studies, however they are predominantly from European-ancestry individuals. Here we present the South African Blood Regulatory (SABR) resource, a map of blood regulatory variation that includes three South Eastern Bantu-speaking groups. Using paired whole genome and blood transcriptome data from over 600 individuals, we map the genetic architecture of 40 blood cell traits derived from deconvolution analysis, as well as expression, splice, and cell type interaction quantitative trait loci. We comprehensively compare SABR to the Genotype Expression (GTEx) Project and characterize the thousands of African-enriched and African-specific regulatory variants mapped. Finally, we demonstrate the increased utility of SABR for interpreting African association studies by identifying putatively causal genes and molecular mechanisms through colocalization analysis of 83 blood-relevant traits from the PAN-UK Biobank. Importantly, we make full SABR summary statistics publicly available to support the African genomics community.
+> Functional genomics resources are critical for interpreting human genetic studies, but currently they are predominantly from European-ancestry individuals. Here we present the South African Blood Regulatory (SABR) resource, a map of blood regulatory variation that includes three South Eastern Bantu-speaking groups. Using paired whole genome and blood transcriptome data from over 600 individuals, we map the genetic architecture of 40 blood cell traits derived from deconvolution analysis, as well as expression, splice, and cell type interaction quantitative trait loci. We comprehensively compare SABR to the Genotype Expression (GTEx) Project and characterize thousands of regulatory variants only observed in African-ancestry individuals. Finally, we demonstrate the increased utility of SABR for interpreting African-ancestry association studies by identifying putatively causal genes and molecular mechanisms through colocalization analysis of blood-relevant traits from the Pan-UK Biobank. Importantly, we make full SABR summary statistics publicly available to support the African genomics community.
 
 ## Table of Contents
 
@@ -16,8 +16,9 @@ The South African Blood Regulatory (SABR) Resource generated whole genome sequen
 3. [Analysis Results](#analysis-results)
     - [xCell Disease Modeling](#xcell-disease-modeling)
     - [Colocalization Analyses](#colocalization-analyses)
-4. [Controlled Access Data](#controlled-access-data)
-5. [Methods](#methods)
+4. [Zenodo](#zenodo)
+5. [Controlled Access Data](#controlled-access-data)
+6. [Methods](#methods)
     - [Genotype Calling and Imputation](#genotype-calling-and-imputation)
     - [Expression Quantification, Splice Quantification, and QTL Mapping](#expression-quantification-splice-quantification-and-qtl-mapping)
     - [xCell GWAS](#xcell-gwas)
@@ -25,7 +26,9 @@ The South African Blood Regulatory (SABR) Resource generated whole genome sequen
 
 ## Cohort and Data Overview
 
-The SABR cohort consists of 754 individuals who participanted in the AWI-Gen cohort and were recontacted and reconsented for this study. Venous whole blood samples were taken and used to carry out WGS at a median depth of 5.1x and paired-end, stranded RNA-sequencing with globin and rRNA depletion at a median depth of 30M mapped read pairs.
+The SABR cohort consists of 754 individuals who participanted in the AWI-Gen cohort and were recontacted and reconsented for this study. Venous whole blood samples were taken and used to carry out WGS at a median depth of 5.1x and paired-end, stranded RNA-sequencing with globin and rRNA depletion at a median depth of 30M mapped read pairs. All data are made available for non-commercial use only.
+
+**All coordinates are provided in GRCh38**
 
 - Individual-level sequencing data quality control metrics and inclusion in downstream analyses - [GitHub](data_tables/S1_participant_metadata.txt)
 
@@ -78,6 +81,10 @@ Gene-level results and full variant level summary statistics outputted by [fastQ
 2. SABR eQTLs x PAN-UKBB Multi-ancestry GWAS
     - List of multi-ancestrty (MA) GWAS included in analysis - [GitHub](data_tables/S19_panukbb_ma_gwas.txt)
     - Colocalization results - [GitHub](data_tables/S20_ma_coloc_results.txt)
+
+## Zenodo
+
+In addition to being avilable here and on AWS, eQTL and sQTL summary statistics have been uploaded to a Zenodo repository (10.5281/zenodo.15334125).
 
 ## Controlled Access Data
 

@@ -1,7 +1,7 @@
 ## Supplementary Data Tables
 
 ### Table S1. SABR Participant Metadata and Sequencing Stats
-Metadata for SABR participants including age, sex, SEB group (group). WGS statistics including mean depth (wgs_mean_dp), proportion of genotype calls imputed (wgs_impute_rate), number of non-imputed genotype calls (wgs_non_imputed). RNA QC metrics including RIN (rna_RIN), percentage of fragments over 200bp (rna_DV200), and number of RNA-seq mapped read pairs (rna_mapped_read_pairs). For each participant, the analyses they were included in is defined (in_wgs = genotype only analyses, in_xcell = cell type deconvolution GWAS, in_qtl = in QTL mapping).
+Metadata for SABR participants including SEB group (group). WGS statistics including mean depth (wgs_mean_dp), proportion of genotype calls imputed (wgs_impute_rate), number of non-imputed genotype calls (wgs_non_imputed). RNA QC metrics including RIN (rna_RIN), percentage of fragments over 200bp (rna_DV200), and number of RNA-seq mapped read pairs (rna_mapped_read_pairs). For each participant, the analyses they were included in is defined (in_wgs = genotype only analyses, in_xcell = cell type deconvolution GWAS, in_qtl = in QTL mapping).
 
 [S1_participant_metadata.txt](S1_participant_metadata.txt)
 
