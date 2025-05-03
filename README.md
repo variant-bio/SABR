@@ -84,7 +84,7 @@ Gene-level results and full variant level summary statistics outputted by [fastQ
 
 ## Zenodo
 
-In addition to being avilable here and on AWS, eQTL and sQTL summary statistics have been uploaded to a Zenodo repository (10.5281/zenodo.15334125).
+In addition to being avilable here and on AWS, eQTL and sQTL summary statistics have been uploaded to a Zenodo [repository](https://zenodo.org/records/15334125).
 
 ## Controlled Access Data
 
