@@ -88,7 +88,7 @@ In addition to being avilable here and on AWS, eQTL and sQTL summary statistics 
 
 ## Controlled Access Data
 
-Indvidual-level data are availabe to authorized users purusing reasearch in line with informed consent and ethical approvals. Data are provided through the European Phenome Genome Archive (EGA) project [XXXX](https://ega-archive.org/). The following is a list of data availble via controlled access.
+Indvidual-level data are availabe to authorized users purusing reasearch in line with informed consent and ethical approvals. Data are provided through the European Phenome Genome Archive (EGA) project [EGAS50000001008](https://ega-archive.org/). The following is a list of data availble via controlled access.
 
 - Joint called and imputed genotype VCF
     - HAIL-ZAAG-WGS-MP-1-2S.metadata.txt
