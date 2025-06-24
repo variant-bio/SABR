@@ -1,6 +1,6 @@
 # South African Blood Regulatory (SABR) Resource
 
-The South African Blood Regulatory (SABR) Resource generated whole genome sequencing (WGS) and blood RNA-seq data from over 600 individuals spanning three South Eastern Bantu-speaking groups. This was a collaboration between [Variant Bio](https://www.variantbio.com/) and Michele Ramsay's group at [Wits University](https://www.wits.ac.za/), and includes individuals from the [AWI-Gen](https://h3africa.org/index.php/awi-gen/) cohort. These data were used to map genetic variants that impact gene expression, splicing, and cell type levels. A full description of the resource can be found in our manuscript.
+The South African Blood Regulatory (SABR) Resource generated whole genome sequencing (WGS) and blood RNA-seq data from over 600 individuals spanning three South Eastern Bantu-speaking groups. This was a collaboration between [Variant Bio](https://www.variantbio.com/) and Michele Ramsay's group at [Wits University](https://www.wits.ac.za/), and includes individuals from the [AWI-Gen](https://h3africa.org/index.php/awi-gen/) cohort. These data were used to map genetic variants that impact gene expression, splicing, and cell type levels. A full description of the resource can be found in our [manuscript](https://www.nature.com/articles/s41588-025-02223-0).
 
 **A map of blood regulatory variation in South Africans enables GWAS interpretation. Castel _et al._ 2025. _Nature Genetics_.**
 
@@ -88,7 +88,7 @@ In addition to being avilable here and on AWS, eQTL and sQTL summary statistics 
 
 ## Controlled Access Data
 
-Indvidual-level data are availabe to authorized users purusing reasearch in line with informed consent and ethical approvals. Data are provided through the European Phenome Genome Archive (EGA) project [EGAS50000001008](https://ega-archive.org/). The following is a list of data availble via controlled access.
+Indvidual-level data are availabe to authorized users purusing reasearch in line with informed consent and ethical approvals. Data are provided through the European Phenome Genome Archive (EGA) project [EGAS50000001008](https://ega-archive.org/studies/EGAS50000001008). The following is a list of data availble via controlled access.
 
 - Joint called and imputed genotype VCF
     - HAIL-ZAAG-WGS-MP-1-2S.metadata.txt
