@@ -36,6 +36,12 @@ The SABR cohort consists of 754 individuals who participanted in the AWI-Gen coh
 
 Variant-level summary statics from WGS genotyping and full summary statistics from xCell GWAS and QTL mapping are publicly available via the links listed below. All full summary statistics files (`.txt.bgz`) are provided with a corresponding index file (`.tbi`). Note, genome-wide summary files are provided through an AWS S3 bucket and will require the AWS CLI [tool](https://aws.amazon.com/cli/) to download.
 
+You can list all files availabe in the S3 bucket using the following command:
+
+```
+aws s3 ls --no-sign-request s3://public.us-prod.variantbio.com/SABR/
+```
+
 ### Genotype Data
 - South African enriched, putatively functional alleles - [GitHub](data_tables/S2_functional_alleles.txt)
 - Variant-level summary statistics from imputed mid-pass WGS including allele frequencies and functional annotations - `s3://public.us-prod.variantbio.com/SABR/VARS/SABR_variant_summary.txt.bgz`
